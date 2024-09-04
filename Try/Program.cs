@@ -21,7 +21,7 @@ class Program
         Console.WriteLine("Enter a String value");
         String vals_string = Console.ReadLine();
         //Arithmetic Operator
-
+        //Arithmetic Operator
         //adding double and float
         Console.WriteLine("Adding double and float : " + (val_float + val_double));
 
