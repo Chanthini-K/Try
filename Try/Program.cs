@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Transactions;
 class Program
-{
+{ 
     static void Main(string[] args)
     {
         Console.WriteLine("Enter a int value");
@@ -18,7 +18,8 @@ class Program
         bool val_bool = Convert.ToBoolean(Console.ReadLine());
         Console.WriteLine("Enter a String value");
         String val_string = Console.ReadLine();
-
+        Console.WriteLine("Enter a String value");
+        String vals_string = Console.ReadLine();
         //Arithmetic Operator
 
         //adding double and float
